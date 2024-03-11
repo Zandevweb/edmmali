@@ -1,0 +1,24 @@
+{
+    "EDM":[
+        {
+            "groupe":"Groupe1",
+            "quartier":"Lassa, BamakoCoura, Samé",
+            "programme":"https://www.google.com/search?sca_esv=3c0cd88929cc7700&sxsrf=ACQVn08riKNKUci1RIGcXJ8tlR80WwVeTQ:1710165639570&si=AKbGX_paaCugDdYkuX2heTJMr0_FGRox2AzKVmiTg2eQr2d-rjfuzyknWCPbpkMi_cyF_89VedZeRjMBsw-xgPtmGS0u8VBUnNAPEsUegt7uIwGTzzAmFwya9czAGglTGqmiU5lG5Ex8qooJZq0TghxpOUjxJl4Wh1gc6cwwiYl-X9iKgauF_83cF8bQ-VquDKcc2e5fGLgKI6ukZRLv_9Z_VjgGUVnIStV_Lp5YccKFPkTz7mVOnIZtwKg-J-zauY9Zed7iq6SmbU1i3lWz8zY4uj4MGroX5w%3D%3D&q=Mali&sa=X&ved=2ahUKEwjzk9C7r-yEAxW20AIHHWCoA9UQs9oBKAB6BAgpEAI"
+        },
+        {
+            "groupe":"Groupe2",
+            "quartier":"Lassa2, BamakoCoura, Samé",
+            "programme":"https://www.google.com/search?sca_esv=3c0cd88929cc7700&sxsrf=ACQVn08riKNKUci1RIGcXJ8tlR80WwVeTQ:1710165639570&si=AKbGX_paaCugDdYkuX2heTJMr0_FGRox2AzKVmiTg2eQr2d-rjfuzyknWCPbpkMi_cyF_89VedZeRjMBsw-xgPtmGS0u8VBUnNAPEsUegt7uIwGTzzAmFwya9czAGglTGqmiU5lG5Ex8qooJZq0TghxpOUjxJl4Wh1gc6cwwiYl-X9iKgauF_83cF8bQ-VquDKcc2e5fGLgKI6ukZRLv_9Z_VjgGUVnIStV_Lp5YccKFPkTz7mVOnIZtwKg-J-zauY9Zed7iq6SmbU1i3lWz8zY4uj4MGroX5w%3D%3D&q=Mali&sa=X&ved=2ahUKEwjzk9C7r-yEAxW20AIHHWCoA9UQs9oBKAB6BAgpEAI"
+        },
+        {
+            "groupe":"Groupe3",
+            "quartier":"Lassa3, BamakoCoura, Samé",
+            "programme":"https://www.google.com/search?sca_esv=3c0cd88929cc7700&sxsrf=ACQVn08riKNKUci1RIGcXJ8tlR80WwVeTQ:1710165639570&si=AKbGX_paaCugDdYkuX2heTJMr0_FGRox2AzKVmiTg2eQr2d-rjfuzyknWCPbpkMi_cyF_89VedZeRjMBsw-xgPtmGS0u8VBUnNAPEsUegt7uIwGTzzAmFwya9czAGglTGqmiU5lG5Ex8qooJZq0TghxpOUjxJl4Wh1gc6cwwiYl-X9iKgauF_83cF8bQ-VquDKcc2e5fGLgKI6ukZRLv_9Z_VjgGUVnIStV_Lp5YccKFPkTz7mVOnIZtwKg-J-zauY9Zed7iq6SmbU1i3lWz8zY4uj4MGroX5w%3D%3D&q=Mali&sa=X&ved=2ahUKEwjzk9C7r-yEAxW20AIHHWCoA9UQs9oBKAB6BAgpEAI"
+        },
+        {
+            "groupe":"Groupe4",
+            "quartier":"Kati, BamakoCoura, Samé",
+            "programme":"https://www.google.com/search?sca_esv=3c0cd88929cc7700&sxsrf=ACQVn08riKNKUci1RIGcXJ8tlR80WwVeTQ:1710165639570&si=AKbGX_paaCugDdYkuX2heTJMr0_FGRox2AzKVmiTg2eQr2d-rjfuzyknWCPbpkMi_cyF_89VedZeRjMBsw-xgPtmGS0u8VBUnNAPEsUegt7uIwGTzzAmFwya9czAGglTGqmiU5lG5Ex8qooJZq0TghxpOUjxJl4Wh1gc6cwwiYl-X9iKgauF_83cF8bQ-VquDKcc2e5fGLgKI6ukZRLv_9Z_VjgGUVnIStV_Lp5YccKFPkTz7mVOnIZtwKg-J-zauY9Zed7iq6SmbU1i3lWz8zY4uj4MGroX5w%3D%3D&q=Mali&sa=X&ved=2ahUKEwjzk9C7r-yEAxW20AIHHWCoA9UQs9oBKAB6BAgpEAI"
+        }
+    ]
+}
