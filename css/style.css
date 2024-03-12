@@ -3,6 +3,12 @@ body {
   color: #0c0c0c;
   background-color: #ffffff;
   overflow-x: hidden;
+
+-webkit-user-select: none !important;
+-webkit-touch-callout: none !important;
+-moz-user-select: none !important;
+-ms-user-select: none !important;
+user-select: none !important; 
 }
 
 .layout_padding {
@@ -762,7 +768,7 @@ a:focus {
   padding: 7px 25px;
   background-color: #e41a2b;
   color: #ffffff;
-  margin-left: 15px;
+  margin-left: 9px;
   border-radius: 5px;
   -webkit-transition: all .3s;
   -o-transition: all .3s;
