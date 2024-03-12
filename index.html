@@ -17,6 +17,8 @@
 
   <!-- bootstrap core css -->
   <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+   <!-- Favicons -->
+   <link href="images/logo.png" rel="icon">
 
   <!-- fonts style -->
   <link href="https://fonts.googleapis.com/css?family=Poppins:400,600,700&display=swap" rel="stylesheet">
@@ -41,9 +43,10 @@
       <div class="container-fluid">
         <nav class="navbar navbar-expand-lg custom_nav-container ">
           <a class="navbar-brand" href="index.html">
-            <span>
+            <img src="/images/logo.png" alt="" srcset="" width="50px">
+            <!-- <span>
               EDM sa
-            </span>
+            </span> -->
           </a>
 
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -70,7 +73,7 @@
     </header>
     <!-- end header section -->
     <!-- slider section -->
-    <section class="slider_section ">
+    <!-- <section class="slider_section ">
       <div class="container ">
         
         <div class="find_container ">
@@ -94,7 +97,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
     <!-- end slider section -->
   </div>
   <!-- category section -->
@@ -186,6 +189,11 @@
           Repartition des quartiers
         </h2>
       </div>
+      <div class="container justify-content center">
+              <input type="text" id="mots" placeholder="Votre quatre" style="padding-left:5px;" />
+              <input type="button" value="Recheche" onclick="traiter()" class="btn2" />
+      </div>
+
       <div class="job_container">
         <div class="row" id="groupe">
 
