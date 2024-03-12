@@ -87,7 +87,7 @@ a:focus {
 /*header section*/
 .hero_area {
   position: relative;
-  height: 100vh;
+  height: 75vh;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
@@ -371,7 +371,7 @@ a:focus {
 
 .slider_section .find_container form .btn-box button.btn {
   display: inline-block;
-  padding: 10px 45px;
+  padding: 10px 25px;
   background-color: #e41a2b;
   color: #ffffff;
   border-radius: 5px;
@@ -496,8 +496,18 @@ a:focus {
   background: white;
   width: 2px;
   height: 2px;
-  -webkit-box-shadow: 2px 0 0 white, 4px 0 0 white, 4px -2px 0 white, 4px -4px 0 white, 4px -6px 0 white, 4px -8px 0 white;
-          box-shadow: 2px 0 0 white, 4px 0 0 white, 4px -2px 0 white, 4px -4px 0 white, 4px -6px 0 white, 4px -8px 0 white;
+  -webkit-box-shadow: 2px 0 0 white,
+ 4px 0 0 white,
+ 4px -2px 0 white,
+ 4px -4px 0 white,
+ 4px -6px 0 white,
+ 4px -8px 0 white;
+          box-shadow: 2px 0 0 white,
+ 4px 0 0 white,
+ 4px -2px 0 white,
+ 4px -4px 0 white,
+ 4px -6px 0 white,
+ 4px -8px 0 white;
   -webkit-transform: rotate(45deg);
      -moz-transform: rotate(45deg);
       -ms-transform: rotate(45deg);
@@ -597,12 +607,12 @@ a:focus {
 
 .about_section .detail-box a:hover {
   background-color: transparent;
-  color: #08135c;
+  color: #7a7e93bd;
 }
 
 .job_section {
-  background-color: #08135c;
-  color: #ffffff;
+  background-color: #8a8ab06e;
+  color: #080808;
 }
 
 .job_section .heading_container {
@@ -630,7 +640,8 @@ a:focus {
       -ms-flex-direction: column;
           flex-direction: column;
   padding: 20px;
-  border: 1px solid #a4a4a4;
+  border: 2px solid #50504f;
+  box-shadow: 5px 10px #888888;
   margin-top: 25px;
   -webkit-transition: all .3s;
   -o-transition: all .3s;
@@ -667,7 +678,8 @@ a:focus {
           align-items: center;
   padding: 20px;
   margin-right: 20px;
-  border: 1px solid #717171;
+  /* border: 1px solid #717171; */
+  
   background-color: #ffffff;
 }
 
@@ -728,7 +740,7 @@ a:focus {
 }
 
 .job_section .box .option-box .apply-btn:hover {
-  color: #ffffff;
+  color: #213092;
 }
 
 .job_section .btn-box {
@@ -789,7 +801,7 @@ a:focus {
 
 .expert_section .box .detail-box {
   width: 100%;
-  color: #ffffff;
+  color: #080808;
   padding: 25px 15px;
 }
 

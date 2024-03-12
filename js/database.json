@@ -1,24 +1,52 @@
 {
     "EDM":[
         {
-            "groupe":"Groupe1",
+            "groupe":"Groupe 1",
             "quartier":"Lassa, BamakoCoura, Samé",
-            "programme":"https://www.google.com/search?sca_esv=3c0cd88929cc7700&sxsrf=ACQVn08riKNKUci1RIGcXJ8tlR80WwVeTQ:1710165639570&si=AKbGX_paaCugDdYkuX2heTJMr0_FGRox2AzKVmiTg2eQr2d-rjfuzyknWCPbpkMi_cyF_89VedZeRjMBsw-xgPtmGS0u8VBUnNAPEsUegt7uIwGTzzAmFwya9czAGglTGqmiU5lG5Ex8qooJZq0TghxpOUjxJl4Wh1gc6cwwiYl-X9iKgauF_83cF8bQ-VquDKcc2e5fGLgKI6ukZRLv_9Z_VjgGUVnIStV_Lp5YccKFPkTz7mVOnIZtwKg-J-zauY9Zed7iq6SmbU1i3lWz8zY4uj4MGroX5w%3D%3D&q=Mali&sa=X&ved=2ahUKEwjzk9C7r-yEAxW20AIHHWCoA9UQs9oBKAB6BAgpEAI"
+            "programme":"images/edm.jpeg",
+            "dates":"Lundi - Mardi",
+            "heures":"08h30 20h 30",
+            "link":"/groupe1.html"
         },
         {
-            "groupe":"Groupe2",
+            "groupe":"Groupe 2",
             "quartier":"Lassa2, BamakoCoura, Samé",
-            "programme":"https://www.google.com/search?sca_esv=3c0cd88929cc7700&sxsrf=ACQVn08riKNKUci1RIGcXJ8tlR80WwVeTQ:1710165639570&si=AKbGX_paaCugDdYkuX2heTJMr0_FGRox2AzKVmiTg2eQr2d-rjfuzyknWCPbpkMi_cyF_89VedZeRjMBsw-xgPtmGS0u8VBUnNAPEsUegt7uIwGTzzAmFwya9czAGglTGqmiU5lG5Ex8qooJZq0TghxpOUjxJl4Wh1gc6cwwiYl-X9iKgauF_83cF8bQ-VquDKcc2e5fGLgKI6ukZRLv_9Z_VjgGUVnIStV_Lp5YccKFPkTz7mVOnIZtwKg-J-zauY9Zed7iq6SmbU1i3lWz8zY4uj4MGroX5w%3D%3D&q=Mali&sa=X&ved=2ahUKEwjzk9C7r-yEAxW20AIHHWCoA9UQs9oBKAB6BAgpEAI"
+            "programme":"images/job_log6.png",
+            "dates":"Lundi - Mardi",
+            "heures":"08h30 20h 30",
+            "link":"/groupe2.html"
         },
         {
-            "groupe":"Groupe3",
+            "groupe":"Groupe 3",
             "quartier":"Lassa3, BamakoCoura, Samé",
-            "programme":"https://www.google.com/search?sca_esv=3c0cd88929cc7700&sxsrf=ACQVn08riKNKUci1RIGcXJ8tlR80WwVeTQ:1710165639570&si=AKbGX_paaCugDdYkuX2heTJMr0_FGRox2AzKVmiTg2eQr2d-rjfuzyknWCPbpkMi_cyF_89VedZeRjMBsw-xgPtmGS0u8VBUnNAPEsUegt7uIwGTzzAmFwya9czAGglTGqmiU5lG5Ex8qooJZq0TghxpOUjxJl4Wh1gc6cwwiYl-X9iKgauF_83cF8bQ-VquDKcc2e5fGLgKI6ukZRLv_9Z_VjgGUVnIStV_Lp5YccKFPkTz7mVOnIZtwKg-J-zauY9Zed7iq6SmbU1i3lWz8zY4uj4MGroX5w%3D%3D&q=Mali&sa=X&ved=2ahUKEwjzk9C7r-yEAxW20AIHHWCoA9UQs9oBKAB6BAgpEAI"
+            "programme":"images/edm.jpeg",
+            "dates":"Lundi - Mardi",
+            "heures":"08h30 20h 30",
+            "link":"/groupe3.html"
         },
         {
-            "groupe":"Groupe4",
+            "groupe":"Groupe 4",
             "quartier":"Kati, BamakoCoura, Samé",
-            "programme":"https://www.google.com/search?sca_esv=3c0cd88929cc7700&sxsrf=ACQVn08riKNKUci1RIGcXJ8tlR80WwVeTQ:1710165639570&si=AKbGX_paaCugDdYkuX2heTJMr0_FGRox2AzKVmiTg2eQr2d-rjfuzyknWCPbpkMi_cyF_89VedZeRjMBsw-xgPtmGS0u8VBUnNAPEsUegt7uIwGTzzAmFwya9czAGglTGqmiU5lG5Ex8qooJZq0TghxpOUjxJl4Wh1gc6cwwiYl-X9iKgauF_83cF8bQ-VquDKcc2e5fGLgKI6ukZRLv_9Z_VjgGUVnIStV_Lp5YccKFPkTz7mVOnIZtwKg-J-zauY9Zed7iq6SmbU1i3lWz8zY4uj4MGroX5w%3D%3D&q=Mali&sa=X&ved=2ahUKEwjzk9C7r-yEAxW20AIHHWCoA9UQs9oBKAB6BAgpEAI"
+            "programme":"images/job_log5.png",
+            "dates":"Lundi - Mardi",
+            "heures":"08h30 20h 30",
+            "link":"/groupe4.html"
+        },
+        {
+            "groupe":"Groupe 5",
+            "quartier":"Lassa5, BamakoCoura, Samé",
+            "programme":"images/edm.jpeg",
+            "dates":"Lundi - Mardi",
+            "heures":"08h30 20h 30",
+            "link":"/groupe5.html"
+        },
+        {
+            "groupe":"Groupe 6",
+            "quartier":"Kati6, BamakoCoura, Samé",
+            "programme":"images/job_log4.png",
+            "dates":"Lundi - Mardi",
+            "heures":"08h30 20h30",
+            "link":"/groupe6.html"
         }
     ]
 }
