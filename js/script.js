@@ -27,7 +27,7 @@ fetch(API)
         <div class="box">
             <div class="job_content-box" >
                 <div class="img-box">
-                <img src="images/edm.jpeg" alt="">
+                <img src="images/logo.png" alt="">
                 </div>
             <div class="detail-box">
           <h5>
@@ -91,6 +91,13 @@ function traiter()
         
         }
         }
+        $(window).on('load', function(){	
+          $('.counter').counterUp({
+            delay: 10,
+            time: 3000
+          });	
+        });
+    
 
 
 
