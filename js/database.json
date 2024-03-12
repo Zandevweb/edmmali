@@ -5,7 +5,7 @@
             "quartier":"Djicoroni (est), Baco Djicoroni ACI (15eme A), Baco Djicoroni Golf (Ligne 1), Badalabougou (universités), Bagadadji, Bakarybougou, Banankoroni, Centre Commercial, Cité Du Niger, Dialakorobougou, Diatoula, Gwelekoro, Hamdallaye, Kalabancoura (ligne 1), Kanadjiguila, Kati (Sananfara), Koulouniko, Lassa, Magnambougou, Magnambougou Rural, Mamaribougou, Medina-Coura, Missira, Mountougoula, N’Tomikorobougou (ligne 1), Niamana, Niarela, Ouezzindougou, Ouolofobougou Bolibana, Quartier Mali, Quartier Sans-fils, Quinzambougou, Sabalibougou, Samanko 2, Samaya, Sanankoroba, Sirakoro, Sirakoro-Dounfing, Sogoninko, Sokorodji, Tabacoro, Zone Industrielle",
             "programme":"images/edm.jpeg",
             "dates":"Lundi - Mardi",
-            "heures":"08h30 20h 30",
+            "heures":"08h30 - 20h 30",
             "link":"/groupe1.html"
         },
         {
@@ -13,7 +13,7 @@
             "quartier":"CI 2000 (Place can & kwamé N’krumah), Baco Djicoroni (Mansah Makan), Baco Djicoroni ACI (Tiken Jah), Badialan III, Baguineda, Bougouba, Bouramabougou, Dialakorobougou, Djelibougou, Dogodouman, Dougourakoro, Fadjiguila, Garantiguibougou, Hamdallaye (maternité), Kalaban Ext Sud, Kalabancoro, Kalabancoura(ligne2), Kobala Coura, Korofina Nord, Korofina Sud, Lafiabougou, Missabougou, N’Tomikorobougou (ligne 2), Niamana, Sabalibougou Est, Samaya, Sebenikoro, Sotuba, Taliko, Tiebani, Zi Sotuba",
             "programme":"images/job_log6.png",
             "dates":"Lundi - Mardi",
-            "heures":"08h30 20h 30",
+            "heures":"08h30 - 20h 30",
             "link":"/groupe2.html"
         },
         {
@@ -21,7 +21,7 @@
             "quartier":"Babouillabougou, Baco Djicoroni (village), Baco Djicoroni Golf (Mosquée wamy), Bamako-Coura, Banconi, Centre Commercial, CIMAF, CMM, Darsalam, Dialakorobougou, Dialakorodji, Dio Usine, Dio Village, Dognoumana, Dougourakoro, Hippodrome, Hippodrome II, Kalabancoro, Kognoumani, Korofina Sud, Medina-Coura, Missabougou, N’Gomi, Niamana, Quartier du fleuve, Safo, Seriwala, Sikoroni, Sirakoro, Sotuba, Sotuba ACI, Tabacoro, Tiebani, Tieguena, Yirimadio, Zone Industrielle",
             "programme":"images/edm.jpeg",
             "dates":"Lundi - Mardi",
-            "heures":"08h30 20h 30",
+            "heures":"08h30 - 20h 30",
             "link":"/groupe3.html"
         },
         {
@@ -29,7 +29,7 @@
             "quartier":"ACI 2000(palais des sports), Badalabougou (palais de la culture), Banconi, Bougouba,Boulkassoumbougou, Bozola, Centre Commercial, Cité Du Niger, Daoudabougou, Diatoula, Doumanzana, Faladié, Hippodrome, Kalabancoura (ligne 3), Kouloubleni, Marakaforo, Marseille, Moribabougou, N'gabacoro Droit, N'golonina, Niamakoro, Niamakoro Cité UNICEF, Niarela, Quartier du fleuve, Quartier Sans-fils, Sala, Sangarébougou, Sarambougou, Senou, Sirakoro, Sogoninko, Sotuba, Sotuba ACI, Sotuba Village, Souleymanebougou, Titibougou, Torokorobougou, Yirimadio, Zone Industrielle",
             "programme":"images/job_log5.png",
             "dates":"Lundi - Mardi",
-            "heures":"08h30 20h 30",
+            "heures":"08h30 - 20h 30",
             "link":"/groupe4.html"
         },
         {
@@ -37,7 +37,7 @@
             "quartier":"ACI 2000 (SNJ) , Badalabougou(Broadway), Bamako-Coura, Banankabougou, Banankoroni, Bollé, Boulkassoumbougou, Centre Commercial, Daoudabougou, Dialakorobougou, Diatoula, Djelibougou, Doumanzana, Dravela, Faladié, Faso Kanu, Fougadougou, Hippodrome, Kayo, Magnambougou (Faso kanu), Magnambougou Rural, Manabougou, Marakaforo, Massala, Moribabougou, Nafadji, N'gabacoro Droit, Noumoubougou, Niamakoro, Ouolofobougou, Quartier du fleuve, Sala, Senou, Senou Est, Sirakoro, Sirakoro-Mèguetana, Sogoninko, Sokorodji, Sotuba, Sotuba ACI, Tienfala, Titibougou, Tlomadio, Yirimadio, Yorodiambougou, Zone Industrielle",
             "programme":"images/edm.jpeg",
             "dates":"Lundi - Mardi",
-            "heures":"08h30 20h 30",
+            "heures":"08h30 - 20h 30",
             "link":"/groupe5.html"
         },
         {
@@ -45,7 +45,7 @@
             "quartier":"ACI 2000(Camp para), Bamako-Coura, Bamako-Coura Bolibana, Bollé, Centre Commercial, Djicoroni Para, Dorodougou, Dravela Bolibana, Faladié, Fombabougou, Fougadougou, Gouana, Kabalabougou, Kalabambougou, Kalaban Ext Sud, Kalabancoro, Kalabancoura, Kayo, Logements Sociaux, Magnambougou Rural, Manabougou, Marakaforo, Massala, Missabougou, Moribabougou, N'gabacoro Droit, Niamakoro, Noumoubougou, Ouolofobougou, Ouolofobougou bolibana, Quartier du fleuve, Rastabougou, Sala, Sebenikoro(9eme A), Sibiribougou, Sikoulou, Sotuba Village, Souleymanebougou, Tienfala, Titibougou, Yirimadjo",
             "programme":"images/job_log4.png",
             "dates":"Lundi - Mardi",
-            "heures":"08h30 20h30",
+            "heures":"08h30 - 20h30",
             "link":"/groupe6.html"
         }
     ]
